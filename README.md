@@ -1,3 +1,14 @@
+# Mutelang
+
+Mutelangは音楽作成用の言語です．ソースコードからmidiファイルを生成することができます．
+
+## セットアップとサンプル実行
+
+```python
+pip install -r requirements.txt
+python mutec.py test.mu
+```
+
 # Muteファイルの書き方
 
 ## 非ドラムパートの書き方
